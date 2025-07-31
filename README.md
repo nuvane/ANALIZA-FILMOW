@@ -26,14 +26,19 @@ Skrypt tworzy raport Excel (<b>dane/analiza_netflix.xlsx</b>) z przetworzonymi d
 <hr>
 
 <h3>Arkusz: Gatunki</h3>
-<img src="images/netflix_gatunki.png" alt="Wykres gatunków" width="700"/>
-
-<hr>
-
-<h3>Wykres interaktywny: Produkcje wg lat</h3>
-<img src="images/netflix_lata_interaktywny.png" alt="Wykres roczny" width="700"/>
+<img src="images/gatunki.png" alt="Wykres gatunków" width="700"/>
 
 <hr>
 
 <h3>Arkusz: Podsumowanie</h3>
-<img src="images/netflix_podsumowanie.png" alt="Podsumowanie Excel" width="700"/>
+<img src="images/podsumowanie.png" alt="Podsumowanie" width="700"/>
+
+<hr>
+
+<h3>Wykres interaktywny: Gatunki dla kraju United States</h3>
+<img src="images/interaktywny_gatunki.png" alt="interaktywny_gatunki" width="700"/>
+
+<hr>
+
+<h3>Wykres interaktywny: Kraje dla typu produkcji Movies </h3>
+<img src="images/interaktywny_kraje.png" alt="interaktywny_kraje" width="700"/>
